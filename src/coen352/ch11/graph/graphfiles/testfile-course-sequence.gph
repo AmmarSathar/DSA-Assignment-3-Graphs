@@ -1,0 +1,7 @@
+# Graph example for course sequences
+5               # Number of vertices
+D               # Directed weighted graph
+0 1          	# List of Edges; 0 is for Math204 and 1 is for COEN212
+0 2 			# 0 is for Math204 and 2 is for COEN231
+0 3				# 0 is for Math204 and 3 is for COEN243
+3 4				# 3 is for COEN243 and 4 is for COEN244
